@@ -11,5 +11,3 @@ https://www.adobe.com/express/create/thumbnail/youtube
 
 Snappa
 https://snappa.com/create/youtube-thumbnails
-
-Crello
